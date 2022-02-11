@@ -1,9 +1,9 @@
 import styled from "styled-components"
 
 const ImageContainer = styled.div`
-    display: flex;
+    display: grid;
     width: 100%;
-    justify-content: space-between
+    grid-template-columns: repeat(6, 1fr);
 `
 
 export default ImageContainer;
