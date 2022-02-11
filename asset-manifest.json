@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/memory-card-react/static/js/main.cfc2e91b.js",
+    "static/media/bethSmith.png": "/memory-card-react/static/media/bethSmith.11b594331c480f21becd.png",
+    "static/media/summerSmith.png": "/memory-card-react/static/media/summerSmith.de318e0e3ff79ae0a5d0.png",
+    "static/media/squanchy.jpeg": "/memory-card-react/static/media/squanchy.c2bf6b5501a63012fd6b.jpeg",
+    "static/media/birdPerson.jpeg": "/memory-card-react/static/media/birdPerson.a81c4017d11b61f8baa7.jpeg",
+    "static/media/jessica.jpeg": "/memory-card-react/static/media/jessica.fd0eb618d15f5e8cdbf9.jpeg",
+    "index.html": "/memory-card-react/index.html",
+    "main.cfc2e91b.js.map": "/memory-card-react/static/js/main.cfc2e91b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cfc2e91b.js"
+  ]
+}
